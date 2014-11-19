@@ -25,6 +25,26 @@
     "branch":      "cm-12.0"
   },
   {
+    "repository":  "CyanogenMod/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch":      "cm-12.0"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_qcom_audio",
+    "target_path": "hardware/qcom/audio-caf/default",
+    "branch": "cm-12.0-caf-8974"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_qcom_display",
+    "target_path": "hardware/qcom/display-caf/msm8974",
+    "branch": "cm-12.0-caf-8974"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_qcom_media",
+    "target_path": "hardware/qcom/media-caf/msm8974",
+    "branch": "cm-12.0-caf-8974"
+  },
+  {
     "repository":  "AICP/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
     "branch":      "lp5.0"
