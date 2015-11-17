@@ -108,7 +108,7 @@ void init_msm_properties(unsigned long msm_id, unsigned long msm_ver, char *boar
         property_set("ro.build.fingerprint", "samsung/kltexx/klte:4.4.2/KOT49H/G900FXXU1ANG2:user/release-keys");
         property_set("ro.build.description", "kltexx-user 4.4.2 KOT49H G900FXXU1ANG2 release-keys");
         property_set("ro.product.model", "SM-G900F");
-        property_set("ro.product.device", "kltexx");
+        property_set("ro.product.device", "klte");
         gsm_properties();
     }
 
