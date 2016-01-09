@@ -15,7 +15,7 @@
     "branch": "cm-13.0"
   },
   {
-    "repository": "Team-Hydra/android_kernel_samsung_klte",
+    "repository": "CyanogenMod/android_kernel_samsung_klte",
     "target_path": "kernel/samsung/klte",
     "branch": "cm-13.0"
   },
