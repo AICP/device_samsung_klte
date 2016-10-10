@@ -1,0 +1,42 @@
+[
+  {
+    "repository": "AICP/device_samsung_klte-common",
+    "target_path": "device/samsung/klte-common",
+    "branch": "n7.0"
+  },
+  {
+    "repository": "CyanogenMod/android_device_samsung_msm8974-common",
+    "target_path": "device/samsung/msm8974-common",
+    "branch": "cm-14.0"
+  },
+  {
+    "repository": "CyanogenMod/android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "branch": "cm-14.0"
+  },
+  {
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "cm-14.0"
+  },
+  {
+    "repository": "CyanogenMod/android_kernel_samsung_klte",
+    "target_path": "kernel/samsung/klte",
+    "branch": "cm-14.0"
+  },
+  {
+    "repository":  "AICP/proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "branch":      "n7.0"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch": "cm-14.0"
+  },
+  {
+   "repository":  "CyanogenMod/android_external_stlport",
+   "target_path": "external/stlport",
+   "branch":      "cm-14.0"
+  }
+]
