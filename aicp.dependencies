@@ -38,5 +38,10 @@
    "repository":  "CyanogenMod/android_external_stlport",
    "target_path": "external/stlport",
    "branch":      "cm-14.1"
+  },
+  {
+   "repository":  "TheMuppets/proprietary_vendor_qcom_binaries",
+   "target_path": "vendor/qcom/binaries",
+   "branch":      "cm-14.1"
   }
 ]
