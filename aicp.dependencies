@@ -20,8 +20,8 @@
     "branch": "cm-14.1"
   },
   {
-    "repository": "LineageOS/android_kernel_samsung_klte",
-    "target_path": "kernel/samsung/klte",
+    "repository": "LineageOS/android_kernel_samsung_msm8974",
+    "target_path": "kernel/samsung/msm8974",
     "branch": "cm-14.1"
   },
   {
